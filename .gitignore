@@ -1,0 +1,5 @@
+.env
+.auth_state.json
+playlist_streams.csv
+__pycache__/
+*.pyc
