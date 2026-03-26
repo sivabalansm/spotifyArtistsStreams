@@ -3,3 +3,8 @@
 playlist_streams.csv
 __pycache__/
 *.pyc
+.playwright-cli/
+.playwright-mcp/
+*.xlsx
+*.xlsx.backup
+*.~lock.*
